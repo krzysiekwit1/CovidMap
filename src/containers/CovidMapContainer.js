@@ -314,6 +314,24 @@ class CovidMapContainer extends Component {
             })}
           </tbody>
         </table>
+        <div style={{ display: "none" }}>
+          Icons made by{" "}
+          <a
+            style={{ display: "none" }}
+            href="https://www.freepik.com"
+            title="Freepik"
+          >
+            Freepik
+          </a>{" "}
+          from{" "}
+          <a
+            style={{ display: "none" }}
+            href="https://www.flaticon.com/"
+            title="Flaticon"
+          >
+            www.flaticon.com
+          </a>
+        </div>
       </div>
     );
   }
