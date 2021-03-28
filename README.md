@@ -30,5 +30,5 @@ Project is created with:
 
 ## Images
 
-![](readmeImages/Image1.png)
-![](readmeImages/Image2.png)
+![](https://github.com/krzysiekwit1/CovidMap/blob/master/readmeImages/Image1.PNG?raw=true)
+![](https://github.com/krzysiekwit1/CovidMap/blob/master/readmeImages/image2.PNG?raw=true)
